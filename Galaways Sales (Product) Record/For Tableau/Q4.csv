@@ -1,0 +1,16 @@
+category,total_qty,total_refund_amt,status
+Mobiles & Tablets,9513,6973429.54,order_refunded
+Appliances,5493,2594298.02,order_refunded
+Entertainment,2336,1801144.38,order_refunded
+Computing,1810,922880.18,order_refunded
+Men's Fashion,13779,747152.26,order_refunded
+Women's Fashion,8003,741703.3,order_refunded
+Beauty & Grooming,3997,233912.48,order_refunded
+Others,7693,203514.97,order_refunded
+Home & Living,2961,198840.42,order_refunded
+Superstore,3003,142927.04,order_refunded
+Health & Sports,2633,125969.68,order_refunded
+Kids & Baby,1738,105327.99,order_refunded
+Soghaat,1259,23531.63,order_refunded
+School & Education,446,22097.71,order_refunded
+Books,237,10200.65,order_refunded
